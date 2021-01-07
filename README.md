@@ -13,4 +13,4 @@
 ### About me
 I'm a backend and frontend developer in Java, PHP, Python & Node and PhD student in artificial intelligence, in particular natural language at the prestigious  [PUCPR](https://www.pucpr.br/) university.
 
-- [Website](https://lisa-terumi.medium.com/) 💻 - Working on it.
+- [Blog](https://lisa-terumi.medium.com/) 💻 - Working on it.
