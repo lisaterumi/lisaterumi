@@ -12,7 +12,7 @@ https://gist.github.com/rxaviers/7360908
 - 🔭 I’m currently working on [CELEPAR](http://www.celepar.pr.gov.br/)
 - 🌱 I’m currently learning NLP - Natural Language Processing
 - 👯 I’m looking to collaborate on machine learning resources that support the Portuguese language
-- 👩‍💻 I’m part of a research group called [HAILab](https://github.com/HAILab-PUCPR)
+- 👩‍💻 I’m part of the research groups [HAILab](https://github.com/HAILab-PUCPR) and DECAM (https://www.ppgia.pucpr.br/pt/?q=node/108)
 - 💙 I focus on healthcare research, as in the clinical and biomedical domains
 
 ### About me
