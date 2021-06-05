@@ -22,3 +22,5 @@ I'm a backend and frontend developer in Java, PHP, Python & Node and PhD student
 I have proficiency in English (TOEFL B2) and Spanish (DELE B1).
 
 - [Blog](https://lisa-terumi.medium.com/) 💻 - Working on it.
+- 
+<a href="https://www.buymeacoffee.com/lisaterumi"><img src="https://github.com/lisaterumi/lisaterumi/blob/main/bymeacoffe.png" alt="By me a coffe" width="400"/></a>
