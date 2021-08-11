@@ -17,10 +17,17 @@ https://gist.github.com/rxaviers/7360908
 - 💙 I focus on healthcare research, as in the clinical and biomedical domains
 
 ### About me
-I'm a backend and frontend developer in Java, PHP, Python & Node and PhD student in artificial intelligence, in particular natural language processing at the prestigious [PUCPR](https://www.pucpr.br/) university.
+I'm a backend and frontend developer in Java, PHP, Python, Vue.js & Node and PhD student in artificial intelligence, in particular natural language processing at the prestigious [PUCPR](https://www.pucpr.br/) university.
 
 I have proficiency in English (TOEFL B2) and Spanish (DELE B1).
 
 - [Blog](https://lisa-terumi.medium.com/) 💻 - Working on it.
+
+<div>
+  <a href="https://github.com/lisaterumi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lisaterumi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisaterumi&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
 
 <a href="https://www.buymeacoffee.com/lisaterumi"><img src="https://github.com/lisaterumi/lisaterumi/blob/main/bymeacoffe.png" alt="By me a coffe" width="500"/></a>
