@@ -29,8 +29,9 @@ I have proficiency in English (TOEFL B2) and Spanish (DELE B1).
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisaterumi&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<br />
+![Snake animation](https://github.com/lisaterumi/lisaterumi/blob/output/github-contribution-grid-snake.svg)
+
+  <br />
 <a href="https://www.buymeacoffee.com/lisaterumi"><img src="https://github.com/lisaterumi/lisaterumi/blob/main/bymeacoffe.png" alt="By me a coffe" width="500"/></a>
   
-![Snake animation](https://github.com/lisaterumi/lisaterumi/blob/output/github-contribution-grid-snake.svg)
 
