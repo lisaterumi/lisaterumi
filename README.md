@@ -31,3 +31,6 @@ I have proficiency in English (TOEFL B2) and Spanish (DELE B1).
   
 <br />
 <a href="https://www.buymeacoffee.com/lisaterumi"><img src="https://github.com/lisaterumi/lisaterumi/blob/main/bymeacoffe.png" alt="By me a coffe" width="500"/></a>
+  
+![Snake animation](https://github.com/lisaterumi/lisaterumi/blob/output/github-contribution-grid-snake.svg)
+
