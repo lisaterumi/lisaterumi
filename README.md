@@ -27,9 +27,9 @@ I have proficiency in English (TOEFL B2) and Spanish (DELE B1).
   <a href="https://github.com/lisaterumi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lisaterumi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisaterumi&layout=compact&langs_count=7&theme=dark"/>
-    
-  <summary><b>🏆 Github Achievements</b></summary>
-    
+ <br />
+  <b>🏆 Github Achievements</b>
+ <br />   
 <p align="center"> <a href="https://github.com/lisaterumi"><img src="https://github-profile-trophy.vercel.app/?username=lisaterumi&margin-w=5&theme=radical" alt="lisaterumi" /></a>
 </div>
   
