@@ -12,7 +12,7 @@ https://gist.github.com/rxaviers/7360908
 - 🌱 I work with NLP - Natural Language Processing
 - 👁️‍🗨️ I’m also learning computer vision
 - 👯 I’m looking to collaborate on machine learning resources that support the Portuguese language
-- 👩‍💻 I’m part of the research groups [HAILab](https://github.com/HAILab-PUCPR) 
+- 👩‍💻 I’m part of the research group [HAILab](https://github.com/HAILab-PUCPR) 
 - :woman: I am a [Brazilian girl in NLP !](https://brasileiraspln.com/)
 - 💙 I focus on healthcare research, as in the clinical and biomedical domains
 
