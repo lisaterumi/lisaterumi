@@ -9,11 +9,10 @@ https://gist.github.com/rxaviers/7360908
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lisaterumi)](https://github.com/lisaterumi/meus-projetos)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elisa-terumi-rubel-schneider/)](https://www.linkedin.com/in/elisa-terumi-rubel-schneider/)
 
-- 🔭 I’m currently working on [CELEPAR](http://www.celepar.pr.gov.br/)
 - 🌱 I work with NLP - Natural Language Processing
 - 👁️‍🗨️ I’m also learning computer vision
 - 👯 I’m looking to collaborate on machine learning resources that support the Portuguese language
-- 👩‍💻 I’m part of the research groups [HAILab](https://github.com/HAILab-PUCPR) and [DCAM](https://www.ppgia.pucpr.br/pt/?q=node/108)
+- 👩‍💻 I’m part of the research groups [HAILab](https://github.com/HAILab-PUCPR) 
 - :woman: I am a [Brazilian girl in NLP !](https://brasileiraspln.com/)
 - 💙 I focus on healthcare research, as in the clinical and biomedical domains
 
@@ -22,7 +21,7 @@ I'm a backend and frontend developer in Java, PHP, Python, Vue.js & Node, and Ph
 
 I have proficiency in English (TOEFL B2) and Spanish (DELE B1).
 
-- [Blog](https://lisa-terumi.medium.com/) 💻 - Working on it.
+- [Blog](https://elisaterumi.substack.com/) 💻 - "Explorando a Inteligência Artificial"
 
 <div>
   <a href="https://github.com/lisaterumi">
